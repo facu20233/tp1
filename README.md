@@ -21,3 +21,4 @@ en el archivo .gitignore agregamos el nombre, carpata que queremos excluir
 - que obtiene en el punto 4: la direccion de memoria del puntero, es diferente a las demas, porque el puntero esta alcenada en una direccion de memoria y la variable apuntada en otra
 
 
+# tl1_tp1_2023-facu20233
